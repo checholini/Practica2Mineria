@@ -1,0 +1,96 @@
+Default zeroR:
+Correctly Classified Instances          57               35.625  %
+Correctly Classified Instances          57               35.625  %
+
+
+Default c4.5:
+Correctly Classified Instances         150               93.75   %
+Correctly Classified Instances         109               68.125  %
+Number of Leaves  : 	19
+Size of the tree : 	37
+Weighted Avg. 0,938 0,937
+Weighted Avg. 0,671 0,675
+
+
+Atributos seleccionados: 
+
+RI
+Na
+Al
+Si
+Ca
+Type
+
+
+Default c4.5:
+Correctly Classified Instances         147               91.875  %
+Correctly Classified Instances         110               68.75   %
+Number of Leaves  : 	24
+Size of the tree : 	47
+Weighted Avg. 0,921 0,919
+Weighted Avg. 0,684 0,683
+
+
+Min num Obj = 3 c4.5:
+Correctly Classified Instances         141               88.125  %
+Correctly Classified Instances         102               63.75   %
+Number of Leaves  : 	19
+Size of the tree : 	37
+Weighted Avg. 0,886 0,881
+Weighted Avg. 0,631 0,634
+
+
+Min num Obj = 4 c4.5:
+Correctly Classified Instances         136               85      %
+Correctly Classified Instances         103               64.375  %
+Number of Leaves  : 	17
+Size of the tree : 	33
+Weighted Avg. 0,851 0,849
+Weighted Avg. 0,642 0,642
+
+
+Min num Obj = 5 c4.5:
+Correctly Classified Instances         128               80      %
+Correctly Classified Instances         100               62.5    %
+Number of Leaves  : 	13
+Size of the tree : 	25
+Weighted Avg. 0,830 0,805
+Weighted Avg. 0,613 0,617
+
+
+Confidence factor 1 c4.5:
+Correctly Classified Instances         148               92.5    %
+Correctly Classified Instances         106               66.25   %
+Number of Leaves  : 	26
+Size of the tree : 	51
+Weighted Avg. 0,929 0,925
+Weighted Avg. 0,665 0,661
+
+
+Confidence factor 0.1 c4.5:
+Correctly Classified Instances         143               89.375  %
+Correctly Classified Instances         114               71.25   %
+Number of Leaves  : 	20
+Size of the tree : 	39
+Weighted Avg. 0,898 0,894
+Weighted Avg. 0,703 0,702
+
+
+Confidence factor 0.5 c4.5:
+Correctly Classified Instances         147               91.875  %
+Correctly Classified Instances         106               66.25   %
+Number of Leaves  : 	24
+Size of the tree : 	47
+Weighted Avg. 0,921 0,919
+Weighted Avg. 0,665 0,661
+
+
+Confidence factor 0.1  min 3 c4.5:
+Correctly Classified Instances         141               88.125  %
+Correctly Classified Instances         104               65      %
+Number of Leaves  : 	19
+Size of the tree : 	37
+Weighted Avg. 0,886 0,881
+Weighted Avg. 0,642 0,644
+
+

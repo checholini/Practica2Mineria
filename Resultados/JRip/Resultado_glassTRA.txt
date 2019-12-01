@@ -1,0 +1,31 @@
+Default zeroR:
+Correctly Classified Instances          57               35.625  %
+Correctly Classified Instances          57               35.625  %
+
+
+Default c4.5:
+Correctly Classified Instances         132               82.5    %
+Correctly Classified Instances         105               65.625  %
+Number of Rules : 7
+Weighted Avg. 0,841 0,818
+Weighted Avg. 0,619 0,631
+
+
+Atributos seleccionados: 
+
+Na
+Al
+K
+Ca
+Ba
+Type
+
+
+Default c4.5:
+Correctly Classified Instances         114               71.25   %
+Correctly Classified Instances         105               65.625  %
+Number of Rules : 5
+Weighted Avg. ? 0,713
+Weighted Avg. 0,619 0,630
+
+

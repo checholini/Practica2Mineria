@@ -1,0 +1,28 @@
+Default zeroR:
+Correctly Classified Instances          57               35.625  %
+Correctly Classified Instances          57               35.625  %
+
+
+Default Naive:
+Correctly Classified Instances          93               58.125  %
+Correctly Classified Instances          79               49.375  %
+Weighted Avg. 0,642 0,539
+Weighted Avg. 0,522 0,463
+
+
+Atributos seleccionados: 
+
+RI
+Na
+Al
+Ca
+Type
+
+
+Default Naive:
+Correctly Classified Instances         101               63.125  %
+Correctly Classified Instances          87               54.375  %
+Weighted Avg. ? 0,631
+Weighted Avg. 0,509 0,512
+
+

@@ -1,0 +1,117 @@
+Default zeroR:
+Correctly Classified Instances          57               35.625  %
+Correctly Classified Instances          57               35.625  %
+
+
+Default RandomForest:
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         123               76.875  %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,774 0,768
+
+
+RandomForest con todos los atributos ( 4 ):
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         120               75      %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,749 0,748
+
+
+RandomForest con la mitad de atributos ( 4 ) :
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         123               76.875  %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,774 0,768
+
+
+RandomForest con un cuarto de atributos ( 2 ):
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         122               76.25   %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,756 0,756
+
+
+RandomForest con 200 iteraciones:
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         127               79.375  %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,798 0,793
+
+
+RandomForest con 300 iteraciones::
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         125               78.125  %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,785 0,781
+
+
+RandomForest con 500 iteraciones::
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         125               78.125  %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,786 0,781
+
+
+RandomForest con 200 iteraciones y todos los atributos:
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         119               74.375  %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,747 0,744
+
+
+RandomForest con 300 iteraciones y todos los atributos::
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         121               75.625  %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,759 0,756
+
+
+RandomForest con 500 iteraciones y todos los atributos::
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         119               74.375  %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,744 0,743
+
+
+RandomForest con 200 iteraciones y 4 atributos
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         127               79.375  %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,798 0,793
+
+
+RandomForest con 300 iteraciones y 4 atributos
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         125               78.125  %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,785 0,781
+
+
+RandomForest con 500 iteraciones y 4 atributos 
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         125               78.125  %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,786 0,781
+
+
+RandomForest con 200 iteraciones y 2 atributos:
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         123               76.875  %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,766 0,761
+
+
+RandomForest con 300 iteraciones y 2 atributos:
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         126               78.75   %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,795 0,782
+
+
+RandomForest con 500 iteraciones y 2 atributos
+Correctly Classified Instances         160              100      %
+Correctly Classified Instances         125               78.125  %
+Weighted Avg. 1,000 1,000
+Weighted Avg. 0,786 0,776
+
+

@@ -26,7 +26,7 @@ while (( "$#" )); do
          printf "* " >> ./$FILE_OUT
         cat Prov.txt | grep "Correctly Classified Instances" >> ./$FILE_OUT
          printf "* " >> ./$FILE_OUT
-        cat Prov.txt | grep "Weighted Avg" | cut -d " " -f 1,2,14,24 >> ./$FILE_OUT
+        cat Prov.txt | grep "Weighted Avg" | awk '{print $1, $2, $5, $7}' >> ./$FILE_OUT
         echo -e "---- \n" >> ./$FILE_OUT
     }
 

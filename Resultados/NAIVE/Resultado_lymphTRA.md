@@ -11,14 +11,14 @@ class
 #Default Naive:
 * Correctly Classified Instances          91               81.982  %
 Correctly Classified Instances          90               81.0811 %
-* Weighted Avg. ? 0,820
-Weighted Avg. ? 0,811
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Naive con Discretizacion supervisada:
 * Correctly Classified Instances          92               82.8829 %
 Correctly Classified Instances          80               72.0721 %
-* Weighted Avg. ? 0,829
-Weighted Avg. ? 0,721
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 

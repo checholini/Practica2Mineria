@@ -8,15 +8,15 @@ Weighted Avg. 0,627 0,637
 #200 NN:
 * Correctly Classified Instances         123               76.875  %
 Correctly Classified Instances         109               68.125  %
-* Weighted Avg. ? 0,769
-Weighted Avg. ? 0,681
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #100 NN:
 * Correctly Classified Instances         116               72.5    %
 Correctly Classified Instances         105               65.625  %
-* Weighted Avg. ? 0,725
-Weighted Avg. ? 0,656
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #T 500 NN:

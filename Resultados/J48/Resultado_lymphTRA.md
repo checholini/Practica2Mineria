@@ -14,8 +14,8 @@ class
 Correctly Classified Instances          91               81.982  %
 * Number of Leaves  : 	6
 * Size of the tree : 	11
-* Weighted Avg. ? 0,838
-Weighted Avg. ? 0,820
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Min num Obj = 3 c4.5:
@@ -23,8 +23,8 @@ Weighted Avg. ? 0,820
 Correctly Classified Instances          88               79.2793 %
 * Number of Leaves  : 	5
 * Size of the tree : 	9
-* Weighted Avg. ? 0,820
-Weighted Avg. ? 0,793
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Min num Obj = 4 c4.5:
@@ -32,8 +32,8 @@ Weighted Avg. ? 0,793
 Correctly Classified Instances          86               77.4775 %
 * Number of Leaves  : 	5
 * Size of the tree : 	9
-* Weighted Avg. ? 0,820
-Weighted Avg. ? 0,775
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Min num Obj = 5 c4.5:
@@ -41,8 +41,8 @@ Weighted Avg. ? 0,775
 Correctly Classified Instances          86               77.4775 %
 * Number of Leaves  : 	4
 * Size of the tree : 	7
-* Weighted Avg. ? 0,793
-Weighted Avg. ? 0,775
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Confidence factor 0.1 c4.5:
@@ -50,8 +50,8 @@ Weighted Avg. ? 0,775
 Correctly Classified Instances          91               81.982  %
 * Number of Leaves  : 	6
 * Size of the tree : 	11
-* Weighted Avg. ? 0,838
-Weighted Avg. ? 0,820
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Confidence factor 0.1  min 3 c4.5:
@@ -59,8 +59,8 @@ Weighted Avg. ? 0,820
 Correctly Classified Instances          88               79.2793 %
 * Number of Leaves  : 	5
 * Size of the tree : 	9
-* Weighted Avg. ? 0,820
-Weighted Avg. ? 0,793
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Confidence factor 0.1  min 4 c4.5:
@@ -68,8 +68,8 @@ Weighted Avg. ? 0,793
 Correctly Classified Instances          86               77.4775 %
 * Number of Leaves  : 	5
 * Size of the tree : 	9
-* Weighted Avg. ? 0,820
-Weighted Avg. ? 0,775
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Confidence factor 0.1  min 5 c4.5:
@@ -77,8 +77,8 @@ Weighted Avg. ? 0,775
 Correctly Classified Instances          86               77.4775 %
 * Number of Leaves  : 	4
 * Size of the tree : 	7
-* Weighted Avg. ? 0,793
-Weighted Avg. ? 0,775
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Confidence factor 0.5 c4.5:
@@ -86,8 +86,8 @@ Weighted Avg. ? 0,775
 Correctly Classified Instances          92               82.8829 %
 * Number of Leaves  : 	6
 * Size of the tree : 	11
-* Weighted Avg. ? 0,838
-Weighted Avg. ? 0,829
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Confidence factor 0.5  min 3 c4.5:
@@ -95,8 +95,8 @@ Weighted Avg. ? 0,829
 Correctly Classified Instances          92               82.8829 %
 * Number of Leaves  : 	5
 * Size of the tree : 	9
-* Weighted Avg. ? 0,820
-Weighted Avg. ? 0,829
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Confidence factor 0.5  min 4 c4.5:
@@ -104,8 +104,8 @@ Weighted Avg. ? 0,829
 Correctly Classified Instances          88               79.2793 %
 * Number of Leaves  : 	5
 * Size of the tree : 	9
-* Weighted Avg. ? 0,820
-Weighted Avg. ? 0,793
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Confidence factor 0.5  min 5 c4.5:
@@ -113,8 +113,8 @@ Weighted Avg. ? 0,793
 Correctly Classified Instances          88               79.2793 %
 * Number of Leaves  : 	4
 * Size of the tree : 	7
-* Weighted Avg. ? 0,793
-Weighted Avg. ? 0,793
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Confidence factor 0.9 c4.5:
@@ -122,8 +122,8 @@ Weighted Avg. ? 0,793
 Correctly Classified Instances          92               82.8829 %
 * Number of Leaves  : 	6
 * Size of the tree : 	11
-* Weighted Avg. ? 0,838
-Weighted Avg. ? 0,829
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Confidence factor 0.9  min 3 c4.5:
@@ -131,8 +131,8 @@ Weighted Avg. ? 0,829
 Correctly Classified Instances          92               82.8829 %
 * Number of Leaves  : 	5
 * Size of the tree : 	9
-* Weighted Avg. ? 0,820
-Weighted Avg. ? 0,829
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Confidence factor 0.9  min 4 c4.5:
@@ -140,8 +140,8 @@ Weighted Avg. ? 0,829
 Correctly Classified Instances          88               79.2793 %
 * Number of Leaves  : 	5
 * Size of the tree : 	9
-* Weighted Avg. ? 0,820
-Weighted Avg. ? 0,793
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #Confidence factor 0.9  min 5 c4.5:
@@ -149,7 +149,7 @@ Weighted Avg. ? 0,793
 Correctly Classified Instances          88               79.2793 %
 * Number of Leaves  : 	4
 * Size of the tree : 	7
-* Weighted Avg. ? 0,793
-Weighted Avg. ? 0,793
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 

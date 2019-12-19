@@ -12,7 +12,7 @@ Type
 * Correctly Classified Instances         114               71.25   %
 Correctly Classified Instances         107               66.875  %
 * Number of Rules : 5
-* Weighted Avg. ? 0,713
+* Weighted Avg. ? ?
 Weighted Avg. 0,634 0,645
 ---- 
 
@@ -20,15 +20,15 @@ Weighted Avg. 0,634 0,645
 * Correctly Classified Instances         116               72.5    %
 Correctly Classified Instances         108               67.5    %
 * Number of Rules : 5
-* Weighted Avg. ? 0,725
-Weighted Avg. ? 0,675
+* Weighted Avg. ? ?
+Weighted Avg. ? ?
 ---- 
 
 #JRip 4 Folds:
 * Correctly Classified Instances         116               72.5    %
 Correctly Classified Instances         103               64.375  %
 * Number of Rules : 5
-* Weighted Avg. ? 0,725
+* Weighted Avg. ? ?
 Weighted Avg. 0,611 0,623
 ---- 
 
@@ -36,7 +36,7 @@ Weighted Avg. 0,611 0,623
 * Correctly Classified Instances         114               71.25   %
 Correctly Classified Instances         106               66.25   %
 * Number of Rules : 5
-* Weighted Avg. ? 0,713
+* Weighted Avg. ? ?
 Weighted Avg. 0,637 0,639
 ---- 
 

@@ -1,8 +1,8 @@
 #Default NN:
 * Correctly Classified Instances        3967               96.6618 %
-Correctly Classified Instances        3938               95.9552 %
+Correctly Classified Instances        3937               95.9308 %
 * Weighted Avg. 0,965 0,963
-Weighted Avg. 0,957 0,957
+Weighted Avg. 0,956 0,957
 ---- 
 
 #200 NN:
@@ -42,42 +42,42 @@ Weighted Avg. 0,958 0,958
 
 #I 500 NN:
 * Correctly Classified Instances        3986               97.1248 %
-Correctly Classified Instances        3938               95.9552 %
+Correctly Classified Instances        3941               96.0283 %
 * Weighted Avg. 0,970 0,970
-Weighted Avg. 0,959 0,958
+Weighted Avg. 0,960 0,959
 ---- 
 
 #I 200 NN:
 * Correctly Classified Instances        3986               97.1248 %
-Correctly Classified Instances        3938               95.9552 %
+Correctly Classified Instances        3941               96.0283 %
 * Weighted Avg. 0,970 0,970
-Weighted Avg. 0,959 0,958
+Weighted Avg. 0,960 0,959
 ---- 
 
 I 100 NN:
 * Correctly Classified Instances        3986               97.1248 %
-Correctly Classified Instances        3938               95.9552 %
+Correctly Classified Instances        3941               96.0283 %
 * Weighted Avg. 0,970 0,970
-Weighted Avg. 0,959 0,958
+Weighted Avg. 0,960 0,959
 ---- 
 
 #O 500 NN:
 * Correctly Classified Instances        3940               96.0039 %
-Correctly Classified Instances        3924               95.614  %
+Correctly Classified Instances        3925               95.6384 %
 * Weighted Avg. 0,957 0,957
 Weighted Avg. 0,954 0,954
 ---- 
 
 #O 200 NN:
 * Correctly Classified Instances        3940               96.0039 %
-Correctly Classified Instances        3924               95.614  %
+Correctly Classified Instances        3925               95.6384 %
 * Weighted Avg. 0,957 0,957
 Weighted Avg. 0,954 0,954
 ---- 
 
 O 100 NN:
 * Correctly Classified Instances        3940               96.0039 %
-Correctly Classified Instances        3924               95.614  %
+Correctly Classified Instances        3925               95.6384 %
 * Weighted Avg. 0,957 0,957
 Weighted Avg. 0,954 0,954
 ---- 

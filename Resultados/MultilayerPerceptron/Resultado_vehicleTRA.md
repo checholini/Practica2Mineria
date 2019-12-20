@@ -20,23 +20,23 @@ Weighted Avg. 0,796 0,797
 ---- 
 
 #T 500 NN:
-* Correctly Classified Instances         620               97.7918 %
+* Correctly Classified Instances         621               97.9495 %
 Correctly Classified Instances         520               82.0189 %
-* Weighted Avg. 0,978 0,978
+* Weighted Avg. 0,979 0,979
 Weighted Avg. 0,819 0,819
 ---- 
 
 #T 200 NN:
-* Correctly Classified Instances         620               97.7918 %
+* Correctly Classified Instances         621               97.9495 %
 Correctly Classified Instances         520               82.0189 %
-* Weighted Avg. 0,978 0,978
+* Weighted Avg. 0,979 0,979
 Weighted Avg. 0,819 0,819
 ---- 
 
 T 100 NN:
-* Correctly Classified Instances         620               97.7918 %
+* Correctly Classified Instances         621               97.9495 %
 Correctly Classified Instances         520               82.0189 %
-* Weighted Avg. 0,978 0,978
+* Weighted Avg. 0,979 0,979
 Weighted Avg. 0,819 0,819
 ---- 
 
@@ -62,23 +62,23 @@ Weighted Avg. 0,809 0,810
 ---- 
 
 #O 500 NN:
-* Correctly Classified Instances         533               84.0694 %
+* Correctly Classified Instances         535               84.3849 %
 Correctly Classified Instances         488               76.9716 %
-* Weighted Avg. 0,835 0,834
-Weighted Avg. 0,770 0,764
+* Weighted Avg. 0,838 0,838
+Weighted Avg. 0,771 0,764
 ---- 
 
 #O 200 NN:
-* Correctly Classified Instances         533               84.0694 %
+* Correctly Classified Instances         535               84.3849 %
 Correctly Classified Instances         488               76.9716 %
-* Weighted Avg. 0,835 0,834
-Weighted Avg. 0,770 0,764
+* Weighted Avg. 0,838 0,838
+Weighted Avg. 0,771 0,764
 ---- 
 
 O 100 NN:
-* Correctly Classified Instances         533               84.0694 %
+* Correctly Classified Instances         535               84.3849 %
 Correctly Classified Instances         488               76.9716 %
-* Weighted Avg. 0,835 0,834
-Weighted Avg. 0,770 0,764
+* Weighted Avg. 0,838 0,838
+Weighted Avg. 0,771 0,764
 ---- 
 
